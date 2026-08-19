@@ -107,7 +107,3 @@ Download the GeoTIFF from the [WorldPop 2020 China Population Dataset](https://w
 - **Fuzhou-specific defaults.** When the selected city is Fuzhou (福州市), six core districts are pre-selected by default; other cities require manual district selection.
 - **Internet required.** Administrative boundaries are fetched at runtime, so Stage 2 needs network access.
 - **Bus model is a simplification.** It reuses drivable roads at a fixed 20 km/h and ignores real transit schedules.
-
-## License
-
-[Add your license here.]
