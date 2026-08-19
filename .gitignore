@@ -1,0 +1,20 @@
+# Large raster data — do not track (too big for GitHub)
+Fuzhou_NDVI_2020.tif
+Fuzhou_NDVI_2024.tif
+population_total_pop.tif
+*.tif
+*.tiff
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
